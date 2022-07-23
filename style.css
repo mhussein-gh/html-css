@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+    color: white;
+    list-style-type:none;
+    text-decoration:none;
+    text-align: center;
+    font-family: 'Lucida Sans',Verdana, sans-serif
+}
+
+h2{
+    text-decoration: underline;
+}
+
+img{
+    border:5px brown solid;
+}
+
+a:hover{
+   font-size: 16px;
+   color: brown;
+}
+
+button{
+    border-color: brown;
+    margin-right: 40px;
+    height: 25px;
+    box-sizing: border-box;
+}
+
