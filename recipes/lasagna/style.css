@@ -36,3 +36,13 @@ a:visited,
 a:link{
     color: black;
 }
+
+button:hover{
+    cursor: pointer;
+}
+
+a{
+    width: 145px;
+    display: block;
+    margin: auto;
+}
