@@ -63,6 +63,18 @@ li a{
     border: none;
     font-size: 20px; 
     margin: 10px;
+    padding-right: 25px;
+    border-right: 2px solid black;
+    border-color: white;
+}
+
+.nav a:hover{
+    color: black;
+}
+
+.nav-btn:last-of-type{
+    border-right: none;
+    padding-right: 0px;
 }
 
 .logo-div, .nav{
