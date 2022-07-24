@@ -8,13 +8,25 @@
     font-weight: bold;
 }
 
+.sub-title{
+    border: 2px dotted pink;
+    padding: 0px;
+    width: 260px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.sub-title2{
+    text-decoration: underline;
+}
+
 img{
-    border:5px brown solid;
-    margin-bottom: 30px;
+    border:5px pink solid;
+    margin-bottom: 40px;
 }
 
 li button{
-    border-color: brown;
+    border-color: pink;
     margin-right: 40px;
     height: 25px;
     box-sizing: border-box;
